@@ -7,8 +7,8 @@ const database = new Datastore('database.db');
 require('dotenv').config();
 
 const app = express();
-
-app.listen(8080, () => console.log('listening at 8080'));
+const port = process.env.PORT || 8080;
+app.listen(port, () => console.log(`listening to${port}` ));
 app.use(express.static('public'));
 app.use(express.json());
 
@@ -21,7 +21,7 @@ app.get('/api', (request, response) => {
         if(err){
             console.log('error!!!');
             response.end();
-            return 
+            return
         }
         response.json(data);
     });
@@ -30,7 +30,7 @@ app.get('/api', (request, response) => {
 app.post('/api', (request, response) => {
     const data = request.body;
     try {
-        database.insert(data);        
+        database.insert(data);
       }
       catch(err) {
         console.log('shit gone wrong');
@@ -57,7 +57,7 @@ app.get('/w/:latlng', async (request, response) =>{
     const aq_response = await fetch(aqurl);
     const aq_data = await aq_response.json();
 
-    
+
     const data = {
         weather: weather_data,
         air_quality: aq_data
