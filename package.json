@@ -1,0 +1,20 @@
+{
+  "name": "module3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "fetch-module": "^1.0.1",
+    "git": "^0.1.5",
+    "nedb": "^1.8.0",
+    "node-fetch": "^2.6.1"
+  }
+}
