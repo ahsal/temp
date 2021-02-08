@@ -9,6 +9,7 @@
 {"lat":37.386052,"lng":-122.083851,"weather":"clear sky","temp":283.99,"aq":{"parameter":"pm1","value":11.3,"lastUpdated":"2021-02-07T05:56:11+00:00","unit":"µg/m³"},"_id":"DnO7SOwH7CM87v1z"}
 {"lat":35.689487,"lng":139.691706,"weather":"clear sky","temp":289.08,"aq":{"value":-1},"_id":"FaSYNs0ats54DV4z"}
 {"lat":37.386052,"lng":-122.083851,"weather":"clear sky","temp":283.99,"aq":{"parameter":"um100","value":0,"lastUpdated":"2021-02-07T04:49:03+00:00","unit":"particles/cm³"},"_id":"FwuezkFoln1PiwE7"}
+{"lat":10.8505159,"lng":76.2710833,"weather":"clear sky","temp":307.31,"_id":"Ivar28EW86rYPPFc"}
 {"lat":37.386052,"lng":-122.083851,"weather":"clear sky","temp":283.18,"aq":{"parameter":"um100","value":0.007,"lastUpdated":"2021-02-07T08:09:30+00:00","unit":"particles/cm³"},"_id":"RlYTzyMThjcDW35S"}
 {"lat":10.383127199999999,"lng":76.38033089999999,"weather":"clear sky","temp":304.15,"aq":{"value":-1},"_id":"SvnzVX1gDtoz7Ff9"}
 {"lat":10.383127199999999,"lng":76.38033089999999,"weather":"clear sky","temp":304.15,"aq":{"value":-1},"_id":"UJak8j4kXWVsKIuc"}
@@ -21,6 +22,7 @@
 {"lat":10.383127199999999,"lng":76.38033089999999,"weather":"clear sky","temp":304.15,"aq":{"value":-1},"_id":"no8eBp7kCZU3ANjv"}
 {"lat":52.520007,"lng":13.404954,"weather":"light snow","temp":267.96,"_id":"oWNKnTZCpO8aiL9G"}
 {"lat":-23.55052,"lng":-46.633309,"weather":"broken clouds","temp":291.37,"aq":{"parameter":"no2","value":89,"lastUpdated":"2017-10-27T18:00:00+00:00","unit":"µg/m³"},"_id":"rooldbB0gMegxeUI"}
+{"lat":10.8505159,"lng":76.2710833,"weather":"clear sky","temp":307.31,"_id":"siKipwhbgCeCsnbr"}
 {"lat":37.386052,"lng":-122.083851,"weather":"clear sky","temp":283.99,"aq":{"parameter":"pm1","value":11.3,"lastUpdated":"2021-02-07T05:56:11+00:00","unit":"µg/m³"},"_id":"sn35Dst6WAfGkkPC"}
 {"lat":10.383127199999999,"lng":76.38033089999999,"weather":"haze","temp":302.15,"_id":"sqwTugQqTbMYuYTD"}
 {"lat":-23.55052,"lng":-46.633309,"weather":"broken clouds","temp":291.37,"aq":{"parameter":"no2","value":89,"lastUpdated":"2017-10-27T18:00:00+00:00","unit":"µg/m³"},"_id":"tE8pJy89SaFZvHIf"}
@@ -31,5 +33,4 @@
 {"lat":10.383127199999999,"lng":76.38033089999999,"weather":"clear sky","temp":304.15,"aq":{"value":-1},"_id":"vkxpM9Bea6WLJ86r"}
 {"lat":10.383127199999999,"lng":76.38033089999999,"weather":"clear sky","temp":304.15,"aq":{"value":-1},"_id":"vkzsbjykbj7KCX9y"}
 {"lat":10.8505159,"lng":76.2710833,"weather":"clear sky","temp":306.31,"_id":"x7n8PBzBubyduuXt"}
-{"lat":10.8505159,"lng":76.2710833,"weather":"clear sky","temp":307.31,"_id":"siKipwhbgCeCsnbr"}
-{"lat":10.8505159,"lng":76.2710833,"weather":"clear sky","temp":307.31,"_id":"Ivar28EW86rYPPFc"}
+{"lat":10.8505159,"lng":76.2710833,"weather":"clear sky","temp":306.46,"_id":"Z486mgPbSLPXxtAF"}
